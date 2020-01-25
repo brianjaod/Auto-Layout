@@ -1,5 +1,3 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Auto Layout Copy from App Brewery (rights to them)
 
 ## Our Goal
